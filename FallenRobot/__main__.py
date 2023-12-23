@@ -397,7 +397,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/anime_x_god_group"
                         ),
                         InlineKeyboardButton(
                             text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/{SUPPORT_CHAT}"
